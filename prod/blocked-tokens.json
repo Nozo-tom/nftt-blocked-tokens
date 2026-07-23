@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-22T00:00:00Z",
+  "chainId": 1,
+  "blocked": {},
+  "cooldown": {
+    "default": { "enabled": false, "days": 7 },
+    "collections": {}
+  }
+}
