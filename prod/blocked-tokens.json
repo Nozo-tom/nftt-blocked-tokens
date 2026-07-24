@@ -1,8 +1,12 @@
 {
-  "version": 3,
-  "updatedAt": "2026-07-23T15:10:07Z",
+  "version": 4,
+  "updatedAt": "2026-07-24T03:15:58Z",
   "chainId": 1,
-  "blocked": {},
+  "blocked": {
+    "0x138a5c693279b6cd82f48d4bef563251bc15adce": [
+      "1427"
+    ]
+  },
   "cooldown": {
     "default": {
       "enabled": false,
