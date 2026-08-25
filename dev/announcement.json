@@ -1,8 +1,20 @@
 {
   "enabled": true,
-  "linkText": { "ja": "【テスト】お知らせ表示の動作確認", "en": "[Test] Announcement display check" },
-  "title": { "ja": "テスト告知", "en": "Test announcement" },
-  "body": { "ja": "これは表示確認用のテスト告知です。\n本番の掲載文は別途投入します。", "en": "This is a test announcement for display verification.\nProduction text will be entered separately." },
-  "links": [ { "label": { "ja": "NFTTトップ", "en": "NFTT Top" }, "url": "https://nftt.market/" } ],
-  "updatedAt": "2026-08-25T12:00:00+09:00"
+  "linkText": {
+    "ja": "【重要】CNPのお取引に関する重要なお知らせ(9月1日〜)",
+    "en": "[Important] Notice regarding CNP trading (from Sep 1)"
+  },
+  "title": {
+    "ja": "CNPの取引制限措置について",
+    "en": "About CNP Trade Restrictions"
+  },
+  "body": {
+    "ja": "2026年9月1日より、CryptoNinja Partners(CNP)に関して、コミュニティ(Ninja DAO)の決定に基づく取引制限措置がNFTT上で運用されます。\n\n制限の対象・基準・運用ルールの策定は、Ninja DAOにおける議論と決定に委ねられています。NFTTは、コミュニティの決定を反映するための機能を提供するものであり、個別の制限の判断を行うものではありません。\n\n制限基準の詳細のご確認やご意見・ご質問は、下記のDiscord議論スレッドをご利用ください。本措置に関する利用規約の改定内容もあわせてご確認ください。",
+    "en": "Starting September 1, 2026, trade restrictions for CryptoNinja Partners (CNP) based on decisions by the community (Ninja DAO) will be in effect on NFTT.\n\nThe scope, criteria, and operational rules of these restrictions are determined through discussion and decisions within Ninja DAO. NFTT provides the functionality to reflect the community's decisions and does not make individual restriction judgments.\n\nFor details, questions, or feedback, please visit the discussion thread on Discord. Please also review the updated Terms of Service regarding these measures."
+  },
+  "links": [
+    { "label": { "ja": "Discordの議論スレッドはこちら", "en": "Discussion thread on Discord" }, "url": "https://discord.gg/ninjadao" },
+    { "label": { "ja": "利用規約を確認する", "en": "View Terms of Service" }, "url": "https://nftt.market/terms-of-service" }
+  ],
+  "updatedAt": "2026-08-25T13:00:00+09:00"
 }
