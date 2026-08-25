@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "linkText": { "ja": "【テスト】お知らせ表示の動作確認", "en": "[Test] Announcement display check" },
+  "title": { "ja": "テスト告知", "en": "Test announcement" },
+  "body": { "ja": "これは表示確認用のテスト告知です。\n本番の掲載文は別途投入します。", "en": "This is a test announcement for display verification.\nProduction text will be entered separately." },
+  "links": [ { "label": { "ja": "NFTTトップ", "en": "NFTT Top" }, "url": "https://nftt.market/" } ],
+  "updatedAt": "2026-08-25T12:00:00+09:00"
+}
