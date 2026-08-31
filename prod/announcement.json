@@ -1,8 +1,20 @@
 {
   "enabled": false,
-  "linkText": { "ja": "", "en": "" },
-  "title": { "ja": "", "en": "" },
-  "body": { "ja": "", "en": "" },
+  "linkText": {
+    "ja": "",
+    "en": ""
+  },
+  "title": {
+    "ja": "",
+    "en": ""
+  },
+  "body": {
+    "ja": "",
+    "en": ""
+  },
   "links": [],
-  "updatedAt": "2026-08-25T12:00:00+09:00"
+  "updatedAt": "2026-08-25T12:00:00+09:00",
+  "hosts": [
+    "cryptoninja.nftt.market"
+  ]
 }
