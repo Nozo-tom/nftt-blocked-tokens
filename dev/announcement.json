@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "linkText": {
-    "ja": "【重要】CNPのお取引に関する重要なお知らせ(9月1日より)",
-    "en": "[Important] Notice regarding CNP trading (effective Sep 1)"
+    "ja": "【重要】CNPのお取引に関する重要なお知らせ(9月1日)",
+    "en": "[Important] Notice regarding CNP trading (Sep 1)"
   },
   "title": {
     "ja": "CNPの取引制限措置に関するお知らせ",
@@ -13,9 +13,27 @@
     "en": "Thank you for using NFTT.\n\nNFTT is an NFT marketplace specialized for collections, offering convenient search and sorting features, and we value moving forward together with each collection's community.\n\nRegarding CryptoNinja Partners (CNP), its community Ninja DAO has been discussing and deciding on usage restriction criteria for CNP. Out of respect for the community's intentions, NFTT will operate trade restrictions based on these decisions on NFTT starting September 1, 2026.\n\nThe scope, criteria, and operational rules of the restrictions are determined through discussion and decisions within Ninja DAO. NFTT provides the functionality to reflect those decisions and does not make individual restriction judgments.\n\nFor details of the restriction criteria, opinions, or questions, please use the Discord discussion thread below. Please also review the Terms of Service related to these measures."
   },
   "links": [
-    { "label": { "ja": "Discordの議論スレッドはこちら", "en": "Discussion thread on Discord" }, "url": "https://discord.com/channels/1000922162741379086/1086090992865775677" },
-    { "label": { "ja": "利用規約を確認する", "en": "Terms of Service (Japanese)" }, "url": "https://nftt-market.gitbook.io/nftt.market/terms-of-service" },
-    { "label": { "ja": "利用規約(英語版)", "en": "Terms of Service (English)" }, "url": "https://nftt-market.gitbook.io/nftt.market/terms-of-service-english" }
+    {
+      "label": {
+        "ja": "Discordの議論スレッドはこちら",
+        "en": "Discussion thread on Discord"
+      },
+      "url": "https://discord.com/channels/1000922162741379086/1086090992865775677"
+    },
+    {
+      "label": {
+        "ja": "利用規約を確認する",
+        "en": "Terms of Service (Japanese)"
+      },
+      "url": "https://nftt-market.gitbook.io/nftt.market/terms-of-service"
+    },
+    {
+      "label": {
+        "ja": "利用規約(英語版)",
+        "en": "Terms of Service (English)"
+      },
+      "url": "https://nftt-market.gitbook.io/nftt.market/terms-of-service-english"
+    }
   ],
-  "updatedAt": "2026-08-25T14:00:00+09:00"
+  "updatedAt": "2026-08-31T05:24:59Z"
 }
