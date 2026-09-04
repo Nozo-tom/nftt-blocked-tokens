@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "linkText": {
     "ja": "【重要】CNPのお取引に関する重要なお知らせ(9月1日より)",
     "en": "[Important] Notice regarding CNP trading (effective Sep 1)"
@@ -35,9 +35,5 @@
       "url": "https://nftt-market.gitbook.io/nftt.market/terms-of-service-english"
     }
   ],
-  "updatedAt": "2026-08-25T14:00:00+09:00",
-  "hosts": [
-    "nftt-market-test15.beniten.net",
-    "localhost"
-  ]
+  "updatedAt": "2026-09-04T08:28:59Z"
 }
