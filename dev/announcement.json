@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "linkText": {
     "ja": "【重要】CNPのお取引に関する重要なお知らせ(9月1日より)",
     "en": "[Important] Notice regarding CNP trading (effective Sep 1)"
@@ -36,5 +36,5 @@
     }
   ],
   "hosts": [],
-  "updatedAt": "2026-09-04T09:52:44Z"
+  "updatedAt": "2026-09-04T09:57:05Z"
 }
