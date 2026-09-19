@@ -1,4 +1,9 @@
 {
+  "22079": {
+    "reason": "コントラストでブロックされたNFTのため",
+    "by": "TOM-member",
+    "at": "2026-09-19T04:19:58Z"
+  },
   "_cooldown": {
     "reason": "test",
     "by": "Tom-member",
